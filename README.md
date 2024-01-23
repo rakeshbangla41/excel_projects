@@ -22,5 +22,8 @@ By analysing and understanding the insights from these reports,  the company can
 3. Data Analysis Expression (DAX)   
 4. Conditional Formatting  
 5. Beautifying the report to make it visally appealing  
-6. Important metrics related to sales domain  
+6. Important metrics related to sales domain
+
+
+I have uploaded the reports in the PDF format.
 
