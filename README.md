@@ -18,7 +18,7 @@ I have used Microsoft Excel to analyse the data and created two reports using pi
 
 By analysing and understanding the insights from these reports,  the company can work on optimizing its sales strategy across different markets and customers, identify potential business expansion opportunities in promising countries, and maximize Return on Investment (ROI).   
 
-I have uploaded the reports in the PDF format.   
+I have uploaded the reports in the PDF format. You can click on the specific .pdf file to view the report.
 
 ### What I have learned by doing this project:   
 
