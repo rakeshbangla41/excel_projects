@@ -22,9 +22,10 @@ I have uploaded the reports in the PDF format. You can click on the specific .pd
 
 ### What I have learned by doing this project:   
 
-1. Pivot table  
-2. Power Query  
-3. Data Analysis Expression (DAX)   
-4. Conditional Formatting  
-5. beautifying the report to make it visally appealing  
-6. important metrics related to sales domain
+1. Power Query - for data cleaning and transformation
+2. Power Pivot - for creating relationships between tables and developing measures required for analysis    
+3. Data Analysis Expression (DAX) - for creating and writing the appropriate measures   
+4. Conditional Formatting
+5. Pivot table - for developing the sales analysis report 
+6. beautifying the report to make it visually appealing  
+7. important metrics related to sales domain
