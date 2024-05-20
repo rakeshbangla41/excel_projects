@@ -20,7 +20,7 @@ By analysing and understanding the insights from these reports,  the company can
 
 I have uploaded the reports in the PDF format. You can click on the specific .pdf file to view the report.
 
-You can also view the reports here: [Customer Performance Report](https://github.com/rakeshbangla41/excel_projects/blob/main/customer_performance_report.pdf), [Market Performance vs Target Report](https://github.com/rakeshbangla41/excel_projects/blob/main/market_performance_vs_target_report.pdf)
+You can also view the reports here: [Customer Performance Report](https://github.com/rakeshbangla41/excel_projects/blob/main/customer_performance_report.pdf) , [Market Performance vs Target Report](https://github.com/rakeshbangla41/excel_projects/blob/main/market_performance_vs_target_report.pdf)
 
 ### What I have learned by doing this project:   
 
